@@ -128,6 +128,8 @@ python入门的话……python不太需要入门，直接上手就好。
 
 理论课：[[双语字幕\]吴恩达深度学习deeplearning.ai_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FT4y1E74V/?spm_id_from=333.337.search-card.all.click&vd_source=df29b8e0b860a286ce34aafeccfd709d)
 
+理论课：StandFord CS231N，李飞飞开的关于CV方向的课
+
 动手课（从配pytorch环境开始）：[PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=df29b8e0b860a286ce34aafeccfd709d)
 
 + 需要注意的是：AI已经火了很久，这种基础性的课程只能帮助你理解一些基本的概念，和上手搭一些最简单的东西。适用于纯小白。如果你已经有AI基础，可以无视。
