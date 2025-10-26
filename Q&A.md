@@ -48,8 +48,8 @@
 期刊：[论文类型Journal、magazine、transaction、letter等的区别_magazine和journal的区别-CSDN博客](https://blog.csdn.net/zzc15806/article/details/83186423)、[通信及信号处理领域期刊影响因子、分区及期刊推荐_通信类期刊排名-CSDN博客](https://blog.csdn.net/yrwang_xd/article/details/130947549)
 
 - t1：IEEE Transactions on Wireless Communications (TWC)、IEEE Wireless Communications（WC） 、IEEE Journal on Selected Areas in Communications（J-SAC）
-  - 其他领域：、IEEE Transactions on Information Theory（TIT）、IEEE Transactions on Signal Processing（TSP）
-- t2：IEEE Transactions on Communications（TC）、IEEE Transactions on Vehicular Technology(TVT)、IEEE Communications Letters（CL）、IEEE Transactions on Antennas an Propagation 、IEEE Wireless Communications、IEEE Transactions on Cognitive Communications and Networking
+  - 其他领域：IEEE Transactions on Information Theory（TIT）、IEEE Transactions on Signal Processing（TSP）
+- t2：IEEE Transactions on Communications（TC）、IEEE Transactions on Vehicular Technology(TVT)、IEEE Communications Letters（CL）、IEEE Transactions on Antennas an Propagation 、IEEE Transactions on Cognitive Communications and Networking
 - t3：IEEE Wireless Communications Letters（WCL）、IEEE Signal Processing Letters (SPL)
 - t4：China Communications、IEEE Access
 
