@@ -1,6 +1,6 @@
 # wiki
 
-欢迎师弟师妹~
+呼吁大家把自己的思考、总结传上来分享！也呼吁大家把提问放到Q&A文档里
 
 这是一个简单的文档，简单记叙了一些入学后你们可能遇到的问题。因为时间不多，所以更多的是给一个关键词或者链接。需要大家根据关键词/链接内容自己做进一步的查找。
 
@@ -28,19 +28,19 @@
 
 + 这个不一定用得上，但是有时候代码迭代，多机同步、迁移配好了还是比较舒服的
 
-笔记工具：vscode可以写markdown、typora也很舒服
+笔记工具：vscode可以写markdown、[typora](https://typoraio.cn/)也很舒服
 
 latex工具：overleaf
 
-文献管理：Endnote、Noteexpress、Zotero[(40 封私信 / 15 条消息) 超详细！文献管理软件对比——Endnote、Noteexpress、Zotero、Citavi - 知乎](https://zhuanlan.zhihu.com/p/348608795)
+文献管理：推荐Zotero，也可以试一试其他的。[(40 封私信 / 15 条消息) 超详细！文献管理软件对比——Endnote、Noteexpress、Zotero、Citavi - 知乎](https://zhuanlan.zhihu.com/p/348608795)
 
-+ 这个我没咋试过，欢迎测评后更新
+![image-20251026163232823](./assets/image-20251026163232823.png)
 
 论文阅读工具：pdf阅读：adobe acrobat。中英文事实翻译文献阅读（强推）：[知云文献翻译PC版官网](https://www.zhiyunwenxian.cn/)（有了这个你们就不怕看英文文献了）
 
 ### 1. 服务器相关
 
-我们组人少，所以用啥服务器基本上就那几个人。我会有一个表，这里就不放出来的。总之如果遇到了找对应的师兄师姐。
+遇到了找对应的师兄师姐。
 
 #### 1. 远程登陆
 
@@ -48,21 +48,19 @@ latex工具：overleaf
 
 [(40 封私信 / 13 条消息) SSH的两种远程登录方法详解 - 知乎](https://zhuanlan.zhihu.com/p/587777394)
 
-ssh连接软件推荐
+ssh连接软件推荐：MobaXterm
 
-| 软件名称  | 说明                                                         |
-| --------- | ------------------------------------------------------------ |
-| XSHELL    | 免费。[官网链接](https://www.xshell.com/zh/)。可配合XFTP传输文件，可使用登录脚本处理跳板机机逻辑。 |
-| MobaXterm | 免费。[官网链接](https://mobaxterm.mobatek.net/)。可以处理需要输出到屏幕的代码，会将输出的图像等显示在本机屏幕上。 |
-| SecureCRT | 适合mac使用，有试用期，可寻找破解版。[官网链接](https://www.vandyke.com/products/securecrt/)。 |
+| 软件名称      | 说明                                                         |
+| ------------- | ------------------------------------------------------------ |
+| XSHELL        | 免费。[官网链接](https://www.xshell.com/zh/)。可配合XFTP传输文件，可使用登录脚本处理跳板机机逻辑。 |
+| **MobaXterm** | 免费。[官网链接](https://mobaxterm.mobatek.net/)。可以处理需要输出到屏幕的代码，会将输出的图像等显示在本机屏幕上。 |
+| SecureCRT     | 适合mac使用，有试用期，可寻找破解版。[官网链接](https://www.vandyke.com/products/securecrt/)。 |
 
 #### 2. vscode远程连接
 
 + 左下角有个小图标
 
 ![image-20250907213538832](./assets/image-20250907213538832.png)
-
-
 
 #### 3. ssh免密登录
 
@@ -74,7 +72,7 @@ ssh连接软件推荐
 
 ### 2. 科研相关的
 
-#### 1. 文献查询
+#### 2.1 论文查询
 
 一般用Google scholar，然后大部分Google scholar的文献都出自IEEE，所以其实是一样的。
 
@@ -82,7 +80,13 @@ ssh连接软件推荐
 
 [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
-#### 2. 文稿查询
+#### 2.2 专利查询
+
+登录以下网站，注册后可查询
+
+https://cprs.patentstar.com.cn/Search/Index
+
+#### 2.3 3GPP标准文稿查询
 
 通信行业一大特色就是标准化。标准化有助于行业进步，在现在的行业发展里是不可或缺的技术。4G、5G都是标准化的结果。在标准化组织3GPP中，各公司将就通信的一些技术、接口达成共识。遵循着共识，各公司又发展各自的产品。在通信领域，不遵循标准的工作是没有意义是不被认可的。[(40 封私信 / 15 条消息) 5G标准及3GPP工作组详细介绍 - 知乎](https://zhuanlan.zhihu.com/p/619347100)
 
@@ -96,11 +100,14 @@ ssh连接软件推荐
 
 <img src="./assets/image-20250907214932386.png" alt="image-20250907214932386"  />
 
-+ 一般看华为、高通、OPPO、Nokia（诺基亚）、CMCC（中国移动）几个比较有名的公司（纯看你的喜好）
++ 运行商：CMCC（中国移动）、Docomo（日本移动）
++ 设备商：华为、OPPO、Nokia（诺基亚）
++ 研究单位：高通（不好归类，但很强）、BUPT、pengcheng
++ 每个公司在不同议题中存在精力倾斜，上述重点关注公司不一定能一概而论
 
-#### 3. 专利查询
 
-我也不会，没查过，欢迎补充
+
+
 
 ### 3. 代码管理git
 
@@ -124,23 +131,29 @@ python入门的话……python不太需要入门，直接上手就好。
 
 ### 5. 入门AI
 
+#### 5.1 AI基础
+
 现在的项目八成以上都会用到AI技术。AI技术不存在很大的门槛，借助大模型，你可以零基础写AI代码。但对于AI你可能也需要一些理解。
 
 理论课：[[双语字幕\]吴恩达深度学习deeplearning.ai_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FT4y1E74V/?spm_id_from=333.337.search-card.all.click&vd_source=df29b8e0b860a286ce34aafeccfd709d)
 
 理论课：StandFord CS231N，李飞飞开的关于CV方向的课
 
+理论课：李宏毅 [(强推)李宏毅2021/2022春机器学习课程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click&vd_source=df29b8e0b860a286ce34aafeccfd709d)
+
 动手课（从配pytorch环境开始）：[PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=df29b8e0b860a286ce34aafeccfd709d)
 
 + 需要注意的是：AI已经火了很久，这种基础性的课程只能帮助你理解一些基本的概念，和上手搭一些最简单的东西。适用于纯小白。如果你已经有AI基础，可以无视。
 
+#### 5.2 进阶
+
 AI相关的论文：李沐一个系列的讲论文。可以看看，想idea的时候可能有用。[BERT 论文逐段精读【论文精读】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1PL411M7eQ/?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click)
+
+#### 5.3 大模型
 
 大模型基础课：[【斯坦福大学 • CS336】从零开始构建语言模型 | 2025 年春季_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pAjUzYEaK/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)
 
 + 这个课不是做应用的，是很多底层基础，真的感兴趣且想做深才可能会用到。
 
-
-
-长期演进ing....
+李宏毅LLM： https://www.bilibili.com/video/BV1bKsJz7Eod/?share_source=copy_web&vd_source=69b87b918a20e3423e4303c78c98ab0d
 
