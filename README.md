@@ -10,37 +10,36 @@
 
 ### 0. 工具
 
-命令行终端工具：mobaxterm[MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
+- 命令行终端工具：mobaxterm[MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
+  + 作为控制台连服务器用的，包括文件系统，密码保存功能
 
-+ 作为控制台连服务器用的，包括文件系统，密码保存功能
 
-服务器远程传输工具：filezilla[FileZilla - The free FTP solution](https://filezilla-project.org/)（有时候也用百度云）
+- 服务器远程传输工具：filezilla[FileZilla - The free FTP solution](https://filezilla-project.org/)（有时候也用百度云）
+  + 用于大文件服务器传输
 
-+ 用于大文件服务器传输
 
-梯子：[登录 — FlyingBird](https://fbweb01.getxlx.com/auth/login)、https://xn--1-q07a56pdss.com/
+- 梯子：[登录 — FlyingBird](https://fbweb01.getxlx.com/auth/login)、https://xn--1-q07a56pdss.com/
+  + 翻墙用，Google scholar、github、hugging face等网页
 
-+ 翻墙用，Google scholar、github、hugging face等网页
 
-大模型：多模态相关的国内豆包、国外Gemini。代码可以用claude。GPT本体也可以
+- 大模型：多模态相关的国内豆包、国外Gemini。代码可以用claude。GPT本体也可以
 
-代码管理git[Git - Downloads](https://git-scm.com/downloads)
+- 代码管理git[Git - Downloads](https://git-scm.com/downloads)
+  + 这个不一定用得上，但是有时候代码迭代，多机同步、迁移配好了还是比较舒服的
 
-+ 这个不一定用得上，但是有时候代码迭代，多机同步、迁移配好了还是比较舒服的
 
-笔记工具：vscode可以写markdown、[typora](https://typoraio.cn/)也很舒服
+- 笔记工具：vscode可以写markdown、[typora](https://typoraio.cn/)也很舒服
 
-latex工具：overleaf
+- latex工具：overleaf
 
-文献管理：推荐Zotero，也可以试一试其他的。[(40 封私信 / 15 条消息) 超详细！文献管理软件对比——Endnote、Noteexpress、Zotero、Citavi - 知乎](https://zhuanlan.zhihu.com/p/348608795)
+- 论文阅读工具：pdf阅读：adobe acrobat。中英文事实翻译文献阅读（强推）：[知云文献翻译PC版官网](https://www.zhiyunwenxian.cn/)（有了这个你们就不怕看英文文献了）
+- 文献管理：推荐Zotero，也可以试一试其他的。[(40 封私信 / 15 条消息) 超详细！文献管理软件对比——Endnote、Noteexpress、Zotero、Citavi - 知乎](https://zhuanlan.zhihu.com/p/348608795)
 
 ![image-20251026163232823](./assets/image-20251026163232823.png)
 
-论文阅读工具：pdf阅读：adobe acrobat。中英文事实翻译文献阅读（强推）：[知云文献翻译PC版官网](https://www.zhiyunwenxian.cn/)（有了这个你们就不怕看英文文献了）
-
 ### 1. 服务器相关
 
-遇到了找对应的师兄师姐。
+需要时请找对应的师兄师姐。
 
 #### 1. 远程登陆
 
@@ -156,4 +155,10 @@ AI相关的论文：李沐一个系列的讲论文。可以看看，想idea的�
 + 这个课不是做应用的，是很多底层基础，真的感兴趣且想做深才可能会用到。
 
 李宏毅LLM： https://www.bilibili.com/video/BV1bKsJz7Eod/?share_source=copy_web&vd_source=69b87b918a20e3423e4303c78c98ab0d
+
+
+
+### Todo：
+
+整理一些资料传到网盘挂在此处
 
